@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: rgb(27, 201, 201);
+    text-align: center;
+    height: 50px;
+}
+.banner{
+    background-color: rgb(101, 87, 179);
+    text-align: center;
+    height: 300px;
+}
+.article{
+    overflow: hidden;
+}
+.left{
+    background-color: rgb(134, 112, 40);
+    text-align: center;
+    height: 250px;
+    width: 50%;
+    float: left;
+}
+.right{
+    background-color: rgb(160, 47, 39);
+    text-align: center;
+    height: 250px;
+    width: 50%;
+    float: right;
+}
+.footer{
+    background-color: rgb(172, 63, 117);
+    text-align: center;
+    height: 100px;
+}
